@@ -22,16 +22,3 @@ I'm software developer currently woking at Postobon as Backend developer with C#
 [![](https://visitcount.itsvg.in/api?id=FelipeArredond&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Create README.md · FelipeArredond/FelipeArredond@70a3f35
