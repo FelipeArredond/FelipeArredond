@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm software developer currently woking at Postobon as Backend developer with C# and Java.<br>I'm fullstack developer working at Steeful creating excel addins with React and Python
+I'm software developer currently woking at Postobon as Backend developer with C# and Java.
 
 
 ## 🌐 Socials:
