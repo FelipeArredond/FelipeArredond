@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm software developer currently woking at Postobon as Backend developer with C# and Java.
+I'm software developer currently woking at Bancolombia as Backend developer with Java and Python.
 
 
 ## 🌐 Socials:
